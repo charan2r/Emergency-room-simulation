@@ -24,7 +24,7 @@ Open a terminal or command prompt in the same folder.
 Run the program using:
 
 ```bash
-python simple_er_simulation.py
+python er.py
 
 
 Wait a few seconds — the simulation will:
